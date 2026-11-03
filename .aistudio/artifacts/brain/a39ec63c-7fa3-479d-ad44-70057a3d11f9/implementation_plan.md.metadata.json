@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de implementación integral para FoodWIse en Android: arquitectura en tres capas, agente basado en función de utilidad determinista, persistencia local con Room, integración real con TheMealDB y módulo de evaluación con escenarios reproducibles.",
+  "updatedAt":  "2026-10-26T16:40:50.545588730Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

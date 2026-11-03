@@ -1,0 +1,6 @@
+{
+  "name": "FoodWIse",
+  "description": "Gestor inteligente de inventario y agente de decisión basado en utilidad para reducir el desperdicio de alimentos",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
